@@ -4,7 +4,7 @@ Data Science Projects
 
 my own ORCID: https://orcid.org/0009-0001-3293-2959
 
-DOI for steam.csv: https://doi.org/10.5281/zenodo.7904761
+DOI for steam.csv: [https://doi.org/10.5281/zenodo.7904761](https://doi.org/10.5281/zenodo.7904761)
 
 Original Source: https://www.kaggle.com/datasets/nikdavis/steam-store-games?resource=download&select=steam.csv
 
