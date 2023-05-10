@@ -15,4 +15,4 @@ DOI for act_blitz.csv: [10.5281/zenodo.7904772](https://doi.org/10.5281/zenodo.7
 Original Source: https://www.kaggle.com/datasets/psycon/game-companies-historical-stock-price-2022-04?select=act_bliz.csv
 
 ---
-DOI for my code: [10.5281/zenodo.7904789](https://doi.org/10.5281/zenodo.7904789)](https://doi.org/10.5281/zenodo.7920768)
+DOI for my code: https://doi.org/10.5281/zenodo.7920768
