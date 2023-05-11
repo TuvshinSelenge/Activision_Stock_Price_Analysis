@@ -28,6 +28,15 @@ By creating DOIs for the datasets sourced from Kaggle, this project ensures that
 **Activision Stock Price**: https://www.kaggle.com/datasets/psycon/game-companies-historical-stock-price-2022-04?select=act_bliz.csv
 
 ---
+Code part fehlt und Meta data (genauer informieren)
+---
+
+In conclusion, this project aims to provide valuable insights into the dynamics of Activision's stock price. By examining the interplay between game releases, user ratings, and stock market performance, it sheds light on the factors influencing Activision's stock price. Through the analysis and interpretation of relevant charts, this project contributes to a deeper understanding of the intricate relationship between highly-rated game releases and stock performance. 
+
+The findings and observations derived from this study serve as valuable resources for comprehending gaming industry trends and the financial performance of companies like Activision. With this comprehensive analysis, we conclude our exploration into the captivating connection between gaming and stock markets.
+
+
+---
 
 my own ORCID: https://orcid.org/0009-0001-3293-2959
 
