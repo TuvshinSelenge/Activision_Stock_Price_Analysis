@@ -9,8 +9,8 @@ The original datasets used in this project were sourced from Kaggle. However, th
 
 The project utilizes Digital Object Identifiers (DOIs) to uniquely identify and reference the datasets. The assigned DOIs for the datasets in this project are:
 
-+ DOI 10.5281/zenodo.7904761
-+ DOI 10.5281/zenodo.7904772
++ [10.5281/zenodo.7904761](https://doi.org/10.5281/zenodo.7904761)
++ [10.5281/zenodo.7904772](https://doi.org/10.5281/zenodo.7904772)
 
 These DOIs serve as persistent identifiers, allowing others to easily locate, cite, and access the datasets even though the original creators did not provide DOIs themselves.
 
