@@ -5,6 +5,14 @@
 This project analyzed the relationship between game releases, user ratings, and Activision's stock price performance. Data was collected from the Steam Store and SteamSpy APIs, leveraging existing datasets compiled by other users. The collected data included details on games available on the Steam platform, such as genres and estimated number of owners. Historical price data for Activision was also obtained from a Kaggle user's open-source API. A rating formula provided by SteamDB was implemented to assign ratings to Activision games based on user votes. 
 Python and relevant packages were used for analysis, focusing on the impact of highly-rated game releases on stock market performance.
 
+
+**Key Topics**
+
+ - Data Organisation
+ - Code
+ - Benefits
+ - Conculusion
+
 The original datasets used in this project were sourced from Kaggle. However, the creators of the original datasets did not provide DOIs for them. In order to ensure proper identification and accessibility, DOIs were created specifically for these datasets in the context of this project.
 
 The project utilizes Digital Object Identifiers (DOIs) to uniquely identify and reference the datasets. The assigned DOIs for the datasets in this project are:
