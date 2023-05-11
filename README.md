@@ -1,6 +1,5 @@
-# TU_Tuvshin_Selenge
+# Activision Stock Price Analysis
 
-Data Science Projects
 
 my own ORCID: https://orcid.org/0009-0001-3293-2959
 
