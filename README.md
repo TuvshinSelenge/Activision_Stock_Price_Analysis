@@ -21,6 +21,11 @@ These DOIs serve as persistent identifiers, allowing others to easily locate, ci
 
 By creating DOIs for the datasets sourced from Kaggle, this project ensures that the datasets are properly identified and discoverable. Users can confidently refer to the DOIs provided to access and utilize the datasets in their own analyses and research.
 
+**Original Source** from Kaggle:
+
+**Steam Games**: https://www.kaggle.com/datasets/nikdavis/steam-store-games?resource=download&select=steam.csv
+
+**Activision Stock Price**: https://www.kaggle.com/datasets/psycon/game-companies-historical-stock-price-2022-04?select=act_bliz.csv
 
 ---
 
@@ -28,13 +33,13 @@ my own ORCID: https://orcid.org/0009-0001-3293-2959
 
 DOI for steam.csv: [https://doi.org/10.5281/zenodo.7904761](https://doi.org/10.5281/zenodo.7904761)
 
-Original Source: https://www.kaggle.com/datasets/nikdavis/steam-store-games?resource=download&select=steam.csv
+
 
 ---
 
 DOI for act_blitz.csv: [10.5281/zenodo.7904772](https://doi.org/10.5281/zenodo.7904772)
 
-Original Source: https://www.kaggle.com/datasets/psycon/game-companies-historical-stock-price-2022-04?select=act_bliz.csv
+
 
 ---
 DOI for my code: https://doi.org/10.5281/zenodo.7921490
