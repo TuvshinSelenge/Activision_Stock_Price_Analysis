@@ -13,7 +13,7 @@ The project utilizes Digital Object Identifiers (DOIs) to uniquely identify and 
 
 + [10.5281/zenodo.7904761](https://doi.org/10.5281/zenodo.7904761) 
 
-**act_blitz_Stock_Price**
+**Act_blitz_Stock_Price**
 
 + [10.5281/zenodo.7904772](https://doi.org/10.5281/zenodo.7904772) 
 
