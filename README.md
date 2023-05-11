@@ -29,7 +29,7 @@ By creating DOIs for the datasets sourced from Kaggle, this project ensures that
 
 ---
 Code part fehlt und Meta data (genauer informieren)
----
+....
 
 In conclusion, this project aims to provide valuable insights into the dynamics of Activision's stock price. By examining the interplay between game releases, user ratings, and stock market performance, it sheds light on the factors influencing Activision's stock price. Through the analysis and interpretation of relevant charts, this project contributes to a deeper understanding of the intricate relationship between highly-rated game releases and stock performance. 
 
