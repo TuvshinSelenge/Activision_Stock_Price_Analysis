@@ -9,11 +9,11 @@ The original datasets used in this project were sourced from Kaggle. However, th
 
 The project utilizes Digital Object Identifiers (DOIs) to uniquely identify and reference the datasets. The assigned DOIs for the datasets in this project are:
 
-**Steam_games**
+**Steam Games**
 
 + [10.5281/zenodo.7904761](https://doi.org/10.5281/zenodo.7904761) 
 
-**Act_blitz_Stock_Price**
+**Activision Stock Price**
 
 + [10.5281/zenodo.7904772](https://doi.org/10.5281/zenodo.7904772) 
 
