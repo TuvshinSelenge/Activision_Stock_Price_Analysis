@@ -5,14 +5,16 @@
 This project analyzed the relationship between game releases, user ratings, and Activision's stock price performance. Data was collected from the Steam Store and SteamSpy APIs, leveraging existing datasets compiled by other users. The collected data included details on games available on the Steam platform, such as genres and estimated number of owners. Historical price data for Activision was also obtained from a Kaggle user's open-source API. A rating formula provided by SteamDB was implemented to assign ratings to Activision games based on user votes. 
 Python and relevant packages were used for analysis, focusing on the impact of highly-rated game releases on stock market performance.
 
-The dataset for this project is structured in CSV format and can be accessed using the following Digital Object Identifiers (DOIs):
+The original datasets used in this project were sourced from Kaggle. However, the creators of the original datasets did not provide DOIs for them. In order to ensure proper identification and accessibility, DOIs were created specifically for these datasets in the context of this project.
 
-DOI 10.5281/zenodo.7904761
-DOI 10.5281/zenodo.7904772
+The project utilizes Digital Object Identifiers (DOIs) to uniquely identify and reference the datasets. The assigned DOIs for the datasets in this project are:
 
-These DOIs provide persistent identifiers for the datasets, allowing others to easily reference and access them. The CSV format ensures that the data is easily readable and can be used in various analytical and research workflows. The project follows a structured approach, utilizing version control to track changes and provide access to different dataset versions. Each dataset is assigned a DOI, enabling users to retrieve specific versions as needed.
++ DOI 10.5281/zenodo.7904761
++ DOI 10.5281/zenodo.7904772
 
-By providing the dataset in CSV format and assigning DOIs, the project aims to facilitate data discovery, accessibility, and reuse. Users can rely on the structured dataset and its associated DOIs to access and reference the data in their own analyses and research.
+These DOIs serve as persistent identifiers, allowing others to easily locate, cite, and access the datasets even though the original creators did not provide DOIs themselves.
+
+By creating DOIs for the datasets sourced from Kaggle, this project ensures that the datasets are properly identified and discoverable. Users can confidently refer to the DOIs provided to access and utilize the datasets in their own analyses and research.
 
 
 ---
