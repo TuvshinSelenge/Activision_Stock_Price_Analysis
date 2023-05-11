@@ -21,7 +21,7 @@ These DOIs serve as persistent identifiers, allowing others to easily locate, ci
 
 By creating DOIs for the datasets sourced from Kaggle, this project ensures that the datasets are properly identified and discoverable. Users can confidently refer to the DOIs provided to access and utilize the datasets in their own analyses and research.
 
-**Original Source** from Kaggle:
+**Original sources** from Kaggle:
 
 **Steam Games**: https://www.kaggle.com/datasets/nikdavis/steam-store-games?resource=download&select=steam.csv
 
