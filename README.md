@@ -17,11 +17,11 @@ The original datasets used in this project were sourced from Kaggle. However, th
 
 The project utilizes Digital Object Identifiers (DOIs) to uniquely identify and reference the datasets. The assigned DOIs for the datasets in this project are:
 
-**Steam Games**
+**steam**
 
 + [10.5281/zenodo.7904761](https://doi.org/10.5281/zenodo.7904761) 
 
-**Activision Stock Price**
+**act_bliz**
 
 + [10.5281/zenodo.7904772](https://doi.org/10.5281/zenodo.7904772) 
 
@@ -35,9 +35,21 @@ By creating DOIs for the datasets sourced from Kaggle, this project ensures that
 
 **Activision Stock Price**: https://www.kaggle.com/datasets/psycon/game-companies-historical-stock-price-2022-04?select=act_bliz.csv
 
----
+**Dataset Overview**
+Dataset attributes: steam.csv
 
-Dataset description part fehlt.
++ Type: Comma-separated values
++ Columns:   appid, name, release_date, english, developer, publisher, platforms, required_age, categories, genres, steamspy_tags, achievements, positive_ratings, negative_ratings, average_playtime, median_playtime, owners and price.
++ Rows: 27.076
+
+Dataset attributes: act_bliz.csv
+
++ Type: Comma-separated values
++ Columns: Date, Open, High, Low, Close, Volume and Currency
++ Rows: 3.192
+
+---
+**Code**
 
 Code part fehlt und Meta data (genauer informieren)
 ....
