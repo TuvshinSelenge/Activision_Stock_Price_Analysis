@@ -33,6 +33,7 @@ Dataset attributes: act_bliz.csv
 + Columns: Date, Open, High, Low, Close, Volume and Currency
 + Rows: 3.192
 
+---
 **Data Organisation**
 
 The original datasets used in this project were sourced from Kaggle. However, the creators of the original datasets did not provide DOIs for them. In order to ensure proper identification and accessibility, DOIs were created specifically for these datasets in the context of this project.
