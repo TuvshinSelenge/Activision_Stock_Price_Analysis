@@ -66,7 +66,7 @@ Python is used for data manipulation and control processes, leveraging pandas an
 The math package plays a crucial role in calculating ratings, which are derived using a formula obtained from SteamDB, a reputable third-party provider for Steam data. The specific formula can be found in their blog entry at: https://steamdb.info/blog/steamdb-rating/.
 
 *Side Note: Each significant part of the code is thoroughly explained with comments, providing clear explanations and guidance throughout the implementation. These comments serve to enhance code readability, comprehension, and facilitate understanding of the various processes and calculations involved.*
-....
+---
 **Conclusion**
 
 This research aims to provide valuable insights into the dynamics of Activision's stock price. By examining the interplay between game releases, user ratings, and stock market performance, it sheds light on the factors influencing Activision's stock price. Through the analysis and interpretation of relevant charts, this project contributes to a deeper understanding of the intricate relationship between highly-rated game releases and stock performance. 
