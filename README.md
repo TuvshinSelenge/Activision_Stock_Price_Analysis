@@ -13,6 +13,10 @@ Python and relevant packages were used for analysis, focusing on the impact of h
  - Benefits
  - Conculusion
 
+---
+
+**Data Organisation**
+
 The original datasets used in this project were sourced from Kaggle. However, the creators of the original datasets did not provide DOIs for them. In order to ensure proper identification and accessibility, DOIs were created specifically for these datasets in the context of this project.
 
 The project utilizes Digital Object Identifiers (DOIs) to uniquely identify and reference the datasets. The assigned DOIs for the datasets in this project are:
