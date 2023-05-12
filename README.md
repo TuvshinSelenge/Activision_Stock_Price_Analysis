@@ -66,6 +66,7 @@ Python is used for data manipulation and control processes, leveraging pandas an
 The math package plays a crucial role in calculating ratings, which are derived using a formula obtained from SteamDB, a reputable third-party provider for Steam data. The specific formula can be found in their blog entry at: https://steamdb.info/blog/steamdb-rating/.
 
 *Side Note: Each significant part of the code is thoroughly explained with comments, providing clear explanations and guidance throughout the implementation. These comments serve to enhance code readability, comprehension, and facilitate understanding of the various processes and calculations involved.*
+
 ---
 **Conclusion**
 
