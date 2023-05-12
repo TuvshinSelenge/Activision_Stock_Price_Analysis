@@ -36,6 +36,9 @@ By creating DOIs for the datasets sourced from Kaggle, this project ensures that
 **Activision Stock Price**: https://www.kaggle.com/datasets/psycon/game-companies-historical-stock-price-2022-04?select=act_bliz.csv
 
 ---
+
+Dataset description part fehlt.
+
 Code part fehlt und Meta data (genauer informieren)
 ....
 
