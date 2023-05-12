@@ -1,19 +1,36 @@
 # Activision Stock Price Analysis 
 
-**Overview**
+Author: Tuvshin Selenge
+ORCID: https://orcid.org/0009-0001-3293-2959
+Year of Creation: 2023
+Subject: Stock Analysis
+
 ---
+**Overview**
 This project analyzed the relationship between game releases, user ratings, and Activision's stock price performance. Data was collected from the Steam Store and SteamSpy APIs, leveraging existing datasets compiled by other users. The collected data included details on games available on the Steam platform, such as genres and estimated number of owners. Historical price data for Activision was also obtained from a Kaggle user's open-source API. A rating formula provided by SteamDB was implemented to assign ratings to Activision games based on user votes. 
 Python and relevant packages were used for analysis, focusing on the impact of highly-rated game releases on stock market performance.
 
-
 **Key Topics**
 
+ - Dataset Overview
  - Data Organisation
  - Code
- - Benefits
  - Conculusion
 
 ---
+**Dataset Overview**
+
+Dataset attributes: steam.csv
+
++ Type: Comma-separated values
++ Columns:   appid, name, release_date, english, developer, publisher, platforms, required_age, categories, genres, steamspy_tags, achievements, positive_ratings, negative_ratings, average_playtime, median_playtime, owners and price.
++ Rows: 27.076
+
+Dataset attributes: act_bliz.csv
+
++ Type: Comma-separated values
++ Columns: Date, Open, High, Low, Close, Volume and Currency
++ Rows: 3.192
 
 **Data Organisation**
 
@@ -39,44 +56,19 @@ By creating DOIs for the datasets sourced from Kaggle, this project ensures that
 
 **Activision Stock Price**: https://www.kaggle.com/datasets/psycon/game-companies-historical-stock-price-2022-04?select=act_bliz.csv
 
-**Dataset Overview**
-
-Dataset attributes: steam.csv
-
-+ Type: Comma-separated values
-+ Columns:   appid, name, release_date, english, developer, publisher, platforms, required_age, categories, genres, steamspy_tags, achievements, positive_ratings, negative_ratings, average_playtime, median_playtime, owners and price.
-+ Rows: 27.076
-
-Dataset attributes: act_bliz.csv
-
-+ Type: Comma-separated values
-+ Columns: Date, Open, High, Low, Close, Volume and Currency
-+ Rows: 3.192
-
 ---
 **Code**
 
-Code part fehlt und Meta data (genauer informieren)
-....
+The project utilizes Python programming language in a Jupyter Notebook environment. 
+The **essential packages** employed are pandas, numpy, matplotlib, math, yfinance, and datetime.
+Python is used for data manipulation and control processes, leveraging pandas and numpy for efficient handling of datasets. The matplotlib package is utilized for data visualization, providing various charting options for insightful graphical representations.
 
-In conclusion, this project aims to provide valuable insights into the dynamics of Activision's stock price. By examining the interplay between game releases, user ratings, and stock market performance, it sheds light on the factors influencing Activision's stock price. Through the analysis and interpretation of relevant charts, this project contributes to a deeper understanding of the intricate relationship between highly-rated game releases and stock performance. 
+The math package plays a crucial role in calculating ratings, which are derived using a formula obtained from SteamDB, a reputable third-party provider for Steam data. The specific formula can be found in their blog entry at: https://steamdb.info/blog/steamdb-rating/.
+
+*Side Note: Each significant part of the code is thoroughly explained with comments, providing clear explanations and guidance throughout the implementation. These comments serve to enhance code readability, comprehension, and facilitate understanding of the various processes and calculations involved.*
+....
+**Conclusion**
+
+This research aims to provide valuable insights into the dynamics of Activision's stock price. By examining the interplay between game releases, user ratings, and stock market performance, it sheds light on the factors influencing Activision's stock price. Through the analysis and interpretation of relevant charts, this project contributes to a deeper understanding of the intricate relationship between highly-rated game releases and stock performance. 
 
 The findings and observations derived from this study serve as valuable resources for comprehending gaming industry trends and the financial performance of companies like Activision. With this comprehensive analysis, we conclude our exploration into the captivating connection between gaming and stock markets.
-
-
----
-
-my own ORCID: https://orcid.org/0009-0001-3293-2959
-
-DOI for steam.csv: [https://doi.org/10.5281/zenodo.7904761](https://doi.org/10.5281/zenodo.7904761)
-
-
-
----
-
-DOI for act_blitz.csv: [10.5281/zenodo.7904772](https://doi.org/10.5281/zenodo.7904772)
-
-
-
----
-DOI for my code: https://doi.org/10.5281/zenodo.7921490
