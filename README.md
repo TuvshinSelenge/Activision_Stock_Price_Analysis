@@ -1,4 +1,9 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/TuvshinSelenge/Activision_Stock_Price_Analysis?style=plastic)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7921490.svg)](https://doi.org/10.5281/zenodo.7921490)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7904761.svg)](https://doi.org/10.5281/zenodo.7904761)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7904772.svg)](https://doi.org/10.5281/zenodo.7904772)
+
+
 
 # Activision Stock Price Analysis 
 
