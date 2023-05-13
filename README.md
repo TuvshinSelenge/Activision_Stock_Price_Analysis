@@ -62,7 +62,7 @@ By creating DOIs for the datasets sourced from Kaggle, this project ensures that
 **Code**
 
 The project utilizes Python programming language in a Jupyter Notebook environment. 
-The **essential packages** employed are pandas, numpy, matplotlib, math, yfinance, and datetime.
+The essential packages employed are **pandas, numpy, matplotlib, math, yfinance, and datetime**.
 Python is used for data manipulation and control processes, leveraging pandas and numpy for efficient handling of datasets. The matplotlib package is utilized for data visualization, providing various charting options for insightful graphical representations.
 
 The math package plays a crucial role in calculating ratings, which are derived using a formula obtained from SteamDB, a reputable third-party provider for Steam data. The specific formula can be found in their blog entry at: https://steamdb.info/blog/steamdb-rating/.
