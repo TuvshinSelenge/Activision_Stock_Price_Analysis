@@ -1,4 +1,4 @@
-https://img.shields.io/github/watchers/TuvshinSelenge/Activision_Stock_Price_Analysis?style=plastic
+![GitHub watchers](https://img.shields.io/github/watchers/TuvshinSelenge/Activision_Stock_Price_Analysis?style=plastic)
 
 # Activision Stock Price Analysis 
 
