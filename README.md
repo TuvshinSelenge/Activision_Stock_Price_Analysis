@@ -3,7 +3,7 @@
 + Author: Tuvshin Selenge
 + ORCID: https://orcid.org/0009-0001-3293-2959
 + Year of Creation: 2023
-+ Subject: Stock Analysis with python
++ Subject: Stock Price Analysis with Python
 
 ---
 **Overview**
